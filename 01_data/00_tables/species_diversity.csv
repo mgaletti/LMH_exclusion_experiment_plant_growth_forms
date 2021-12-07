@@ -1,0 +1,13 @@
+life_form;Treatment;Estimates;se
+Tree;Open;0.071;0.05
+Tree;Closed;0.373;0.07
+Palm;Open;0.019;0.01
+Palm;Closed;0.058;0.01
+Liana;Open;0.086;0.03
+Liana;Closed;0.057;0.05
+Shrub;Open;0.014;0.02
+Shrub;Closed;0.052;0.02
+Herb;Open;0.095;0.03
+Herb;Closed;0.109;0.04
+Bamboo;Open;0.009;0.008
+Bamboo;Closed;0.015;0.01
